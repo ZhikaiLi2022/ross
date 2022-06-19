@@ -1,3 +1,3 @@
 ![ross](ross.jpg)
-# ROSS 0.0.1
+# ROSS 1.0.0
 ROSS - Eclipsing Binary Star Searching Software
